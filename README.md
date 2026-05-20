@@ -9,3 +9,5 @@
 8. Conditional Random Field (sklearn-crfsuite)
 9. Fine Tuning POS / NER Model
 10. Spacy
+11. Just Use LLM (
+12. Fine Tuning Local LLM
